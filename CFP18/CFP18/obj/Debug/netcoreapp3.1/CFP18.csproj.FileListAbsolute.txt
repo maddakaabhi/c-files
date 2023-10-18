@@ -1,0 +1,13 @@
+C:\Users\abhil\source\repos\CFP18\CFP18\bin\Debug\netcoreapp3.1\CFP18.exe
+C:\Users\abhil\source\repos\CFP18\CFP18\bin\Debug\netcoreapp3.1\CFP18.deps.json
+C:\Users\abhil\source\repos\CFP18\CFP18\bin\Debug\netcoreapp3.1\CFP18.runtimeconfig.json
+C:\Users\abhil\source\repos\CFP18\CFP18\bin\Debug\netcoreapp3.1\CFP18.runtimeconfig.dev.json
+C:\Users\abhil\source\repos\CFP18\CFP18\bin\Debug\netcoreapp3.1\CFP18.dll
+C:\Users\abhil\source\repos\CFP18\CFP18\bin\Debug\netcoreapp3.1\CFP18.pdb
+C:\Users\abhil\source\repos\CFP18\CFP18\obj\Debug\netcoreapp3.1\CFP18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhil\source\repos\CFP18\CFP18\obj\Debug\netcoreapp3.1\CFP18.AssemblyInfoInputs.cache
+C:\Users\abhil\source\repos\CFP18\CFP18\obj\Debug\netcoreapp3.1\CFP18.AssemblyInfo.cs
+C:\Users\abhil\source\repos\CFP18\CFP18\obj\Debug\netcoreapp3.1\CFP18.csproj.CoreCompileInputs.cache
+C:\Users\abhil\source\repos\CFP18\CFP18\obj\Debug\netcoreapp3.1\CFP18.dll
+C:\Users\abhil\source\repos\CFP18\CFP18\obj\Debug\netcoreapp3.1\CFP18.pdb
+C:\Users\abhil\source\repos\CFP18\CFP18\obj\Debug\netcoreapp3.1\CFP18.genruntimeconfig.cache
