@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CFP4-11review/1.0.0": {
+        "runtime": {
+          "CFP4-11review.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CFP4-11review/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

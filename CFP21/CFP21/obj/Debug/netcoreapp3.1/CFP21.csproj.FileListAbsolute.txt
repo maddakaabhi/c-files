@@ -1,0 +1,13 @@
+C:\Users\abhil\source\repos\CFP21\CFP21\bin\Debug\netcoreapp3.1\CFP21.exe
+C:\Users\abhil\source\repos\CFP21\CFP21\bin\Debug\netcoreapp3.1\CFP21.deps.json
+C:\Users\abhil\source\repos\CFP21\CFP21\bin\Debug\netcoreapp3.1\CFP21.runtimeconfig.json
+C:\Users\abhil\source\repos\CFP21\CFP21\bin\Debug\netcoreapp3.1\CFP21.runtimeconfig.dev.json
+C:\Users\abhil\source\repos\CFP21\CFP21\bin\Debug\netcoreapp3.1\CFP21.dll
+C:\Users\abhil\source\repos\CFP21\CFP21\bin\Debug\netcoreapp3.1\CFP21.pdb
+C:\Users\abhil\source\repos\CFP21\CFP21\obj\Debug\netcoreapp3.1\CFP21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhil\source\repos\CFP21\CFP21\obj\Debug\netcoreapp3.1\CFP21.AssemblyInfoInputs.cache
+C:\Users\abhil\source\repos\CFP21\CFP21\obj\Debug\netcoreapp3.1\CFP21.AssemblyInfo.cs
+C:\Users\abhil\source\repos\CFP21\CFP21\obj\Debug\netcoreapp3.1\CFP21.csproj.CoreCompileInputs.cache
+C:\Users\abhil\source\repos\CFP21\CFP21\obj\Debug\netcoreapp3.1\CFP21.dll
+C:\Users\abhil\source\repos\CFP21\CFP21\obj\Debug\netcoreapp3.1\CFP21.pdb
+C:\Users\abhil\source\repos\CFP21\CFP21\obj\Debug\netcoreapp3.1\CFP21.genruntimeconfig.cache

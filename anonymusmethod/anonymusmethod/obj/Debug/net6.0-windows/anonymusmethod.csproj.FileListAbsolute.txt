@@ -1,0 +1,17 @@
+C:\Users\abhil\source\repos\anonymusmethod\anonymusmethod\bin\Debug\net6.0-windows\anonymusmethod.exe
+C:\Users\abhil\source\repos\anonymusmethod\anonymusmethod\bin\Debug\net6.0-windows\anonymusmethod.deps.json
+C:\Users\abhil\source\repos\anonymusmethod\anonymusmethod\bin\Debug\net6.0-windows\anonymusmethod.runtimeconfig.json
+C:\Users\abhil\source\repos\anonymusmethod\anonymusmethod\bin\Debug\net6.0-windows\anonymusmethod.dll
+C:\Users\abhil\source\repos\anonymusmethod\anonymusmethod\bin\Debug\net6.0-windows\anonymusmethod.pdb
+C:\Users\abhil\source\repos\anonymusmethod\anonymusmethod\obj\Debug\net6.0-windows\anonymusmethod.csproj.AssemblyReference.cache
+C:\Users\abhil\source\repos\anonymusmethod\anonymusmethod\obj\Debug\net6.0-windows\anonymusmethod.Form1.resources
+C:\Users\abhil\source\repos\anonymusmethod\anonymusmethod\obj\Debug\net6.0-windows\anonymusmethod.csproj.GenerateResource.cache
+C:\Users\abhil\source\repos\anonymusmethod\anonymusmethod\obj\Debug\net6.0-windows\anonymusmethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhil\source\repos\anonymusmethod\anonymusmethod\obj\Debug\net6.0-windows\anonymusmethod.AssemblyInfoInputs.cache
+C:\Users\abhil\source\repos\anonymusmethod\anonymusmethod\obj\Debug\net6.0-windows\anonymusmethod.AssemblyInfo.cs
+C:\Users\abhil\source\repos\anonymusmethod\anonymusmethod\obj\Debug\net6.0-windows\anonymusmethod.csproj.CoreCompileInputs.cache
+C:\Users\abhil\source\repos\anonymusmethod\anonymusmethod\obj\Debug\net6.0-windows\anonymusmethod.dll
+C:\Users\abhil\source\repos\anonymusmethod\anonymusmethod\obj\Debug\net6.0-windows\refint\anonymusmethod.dll
+C:\Users\abhil\source\repos\anonymusmethod\anonymusmethod\obj\Debug\net6.0-windows\anonymusmethod.pdb
+C:\Users\abhil\source\repos\anonymusmethod\anonymusmethod\obj\Debug\net6.0-windows\anonymusmethod.genruntimeconfig.cache
+C:\Users\abhil\source\repos\anonymusmethod\anonymusmethod\obj\Debug\net6.0-windows\ref\anonymusmethod.dll

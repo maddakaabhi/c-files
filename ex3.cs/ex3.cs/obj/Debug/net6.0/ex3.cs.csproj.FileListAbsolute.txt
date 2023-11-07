@@ -1,0 +1,14 @@
+C:\Users\abhil\source\repos\ex3.cs\ex3.cs\bin\Debug\net6.0\ex3.cs.exe
+C:\Users\abhil\source\repos\ex3.cs\ex3.cs\bin\Debug\net6.0\ex3.cs.deps.json
+C:\Users\abhil\source\repos\ex3.cs\ex3.cs\bin\Debug\net6.0\ex3.cs.runtimeconfig.json
+C:\Users\abhil\source\repos\ex3.cs\ex3.cs\bin\Debug\net6.0\ex3.cs.dll
+C:\Users\abhil\source\repos\ex3.cs\ex3.cs\bin\Debug\net6.0\ex3.cs.pdb
+C:\Users\abhil\source\repos\ex3.cs\ex3.cs\obj\Debug\net6.0\ex3.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhil\source\repos\ex3.cs\ex3.cs\obj\Debug\net6.0\ex3.cs.AssemblyInfoInputs.cache
+C:\Users\abhil\source\repos\ex3.cs\ex3.cs\obj\Debug\net6.0\ex3.cs.AssemblyInfo.cs
+C:\Users\abhil\source\repos\ex3.cs\ex3.cs\obj\Debug\net6.0\ex3.cs.csproj.CoreCompileInputs.cache
+C:\Users\abhil\source\repos\ex3.cs\ex3.cs\obj\Debug\net6.0\ex3.cs.dll
+C:\Users\abhil\source\repos\ex3.cs\ex3.cs\obj\Debug\net6.0\refint\ex3.cs.dll
+C:\Users\abhil\source\repos\ex3.cs\ex3.cs\obj\Debug\net6.0\ex3.cs.pdb
+C:\Users\abhil\source\repos\ex3.cs\ex3.cs\obj\Debug\net6.0\ex3.cs.genruntimeconfig.cache
+C:\Users\abhil\source\repos\ex3.cs\ex3.cs\obj\Debug\net6.0\ref\ex3.cs.dll

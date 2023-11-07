@@ -1,0 +1,15 @@
+C:\Users\abhil\source\repos\Threaddemo\Threaddemo\obj\Debug\net6.0\Threaddemo.csproj.AssemblyReference.cache
+C:\Users\abhil\source\repos\Threaddemo\Threaddemo\obj\Debug\net6.0\Threaddemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhil\source\repos\Threaddemo\Threaddemo\obj\Debug\net6.0\Threaddemo.AssemblyInfoInputs.cache
+C:\Users\abhil\source\repos\Threaddemo\Threaddemo\obj\Debug\net6.0\Threaddemo.AssemblyInfo.cs
+C:\Users\abhil\source\repos\Threaddemo\Threaddemo\obj\Debug\net6.0\Threaddemo.csproj.CoreCompileInputs.cache
+C:\Users\abhil\source\repos\Threaddemo\Threaddemo\bin\Debug\net6.0\Threaddemo.exe
+C:\Users\abhil\source\repos\Threaddemo\Threaddemo\bin\Debug\net6.0\Threaddemo.deps.json
+C:\Users\abhil\source\repos\Threaddemo\Threaddemo\bin\Debug\net6.0\Threaddemo.runtimeconfig.json
+C:\Users\abhil\source\repos\Threaddemo\Threaddemo\bin\Debug\net6.0\Threaddemo.dll
+C:\Users\abhil\source\repos\Threaddemo\Threaddemo\bin\Debug\net6.0\Threaddemo.pdb
+C:\Users\abhil\source\repos\Threaddemo\Threaddemo\obj\Debug\net6.0\Threaddemo.dll
+C:\Users\abhil\source\repos\Threaddemo\Threaddemo\obj\Debug\net6.0\refint\Threaddemo.dll
+C:\Users\abhil\source\repos\Threaddemo\Threaddemo\obj\Debug\net6.0\Threaddemo.pdb
+C:\Users\abhil\source\repos\Threaddemo\Threaddemo\obj\Debug\net6.0\Threaddemo.genruntimeconfig.cache
+C:\Users\abhil\source\repos\Threaddemo\Threaddemo\obj\Debug\net6.0\ref\Threaddemo.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methodoverload", "Methodoverload\Methodoverload.csproj", "{6486685A-F4D8-48DB-AF41-1AD5C59A72C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methodoverriding", "Methodoverriding\Methodoverriding.csproj", "{B59BBE44-D049-46DF-BCE9-3D0CB8B2DC27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6486685A-F4D8-48DB-AF41-1AD5C59A72C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6486685A-F4D8-48DB-AF41-1AD5C59A72C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6486685A-F4D8-48DB-AF41-1AD5C59A72C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6486685A-F4D8-48DB-AF41-1AD5C59A72C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B59BBE44-D049-46DF-BCE9-3D0CB8B2DC27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B59BBE44-D049-46DF-BCE9-3D0CB8B2DC27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B59BBE44-D049-46DF-BCE9-3D0CB8B2DC27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B59BBE44-D049-46DF-BCE9-3D0CB8B2DC27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9202E8D-7D97-4146-977F-F655066E38B4}
+	EndGlobalSection
+EndGlobal

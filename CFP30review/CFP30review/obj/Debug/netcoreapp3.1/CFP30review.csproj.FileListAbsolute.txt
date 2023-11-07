@@ -1,0 +1,13 @@
+C:\Users\abhil\source\repos\CFP30review\CFP30review\bin\Debug\netcoreapp3.1\CFP30review.exe
+C:\Users\abhil\source\repos\CFP30review\CFP30review\bin\Debug\netcoreapp3.1\CFP30review.deps.json
+C:\Users\abhil\source\repos\CFP30review\CFP30review\bin\Debug\netcoreapp3.1\CFP30review.runtimeconfig.json
+C:\Users\abhil\source\repos\CFP30review\CFP30review\bin\Debug\netcoreapp3.1\CFP30review.runtimeconfig.dev.json
+C:\Users\abhil\source\repos\CFP30review\CFP30review\bin\Debug\netcoreapp3.1\CFP30review.dll
+C:\Users\abhil\source\repos\CFP30review\CFP30review\bin\Debug\netcoreapp3.1\CFP30review.pdb
+C:\Users\abhil\source\repos\CFP30review\CFP30review\obj\Debug\netcoreapp3.1\CFP30review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhil\source\repos\CFP30review\CFP30review\obj\Debug\netcoreapp3.1\CFP30review.AssemblyInfoInputs.cache
+C:\Users\abhil\source\repos\CFP30review\CFP30review\obj\Debug\netcoreapp3.1\CFP30review.AssemblyInfo.cs
+C:\Users\abhil\source\repos\CFP30review\CFP30review\obj\Debug\netcoreapp3.1\CFP30review.csproj.CoreCompileInputs.cache
+C:\Users\abhil\source\repos\CFP30review\CFP30review\obj\Debug\netcoreapp3.1\CFP30review.dll
+C:\Users\abhil\source\repos\CFP30review\CFP30review\obj\Debug\netcoreapp3.1\CFP30review.pdb
+C:\Users\abhil\source\repos\CFP30review\CFP30review\obj\Debug\netcoreapp3.1\CFP30review.genruntimeconfig.cache

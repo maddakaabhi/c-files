@@ -1,0 +1,13 @@
+C:\Users\abhil\source\repos\CFP26\CFP26\bin\Debug\netcoreapp3.1\CFP26.exe
+C:\Users\abhil\source\repos\CFP26\CFP26\bin\Debug\netcoreapp3.1\CFP26.deps.json
+C:\Users\abhil\source\repos\CFP26\CFP26\bin\Debug\netcoreapp3.1\CFP26.runtimeconfig.json
+C:\Users\abhil\source\repos\CFP26\CFP26\bin\Debug\netcoreapp3.1\CFP26.runtimeconfig.dev.json
+C:\Users\abhil\source\repos\CFP26\CFP26\bin\Debug\netcoreapp3.1\CFP26.dll
+C:\Users\abhil\source\repos\CFP26\CFP26\bin\Debug\netcoreapp3.1\CFP26.pdb
+C:\Users\abhil\source\repos\CFP26\CFP26\obj\Debug\netcoreapp3.1\CFP26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhil\source\repos\CFP26\CFP26\obj\Debug\netcoreapp3.1\CFP26.AssemblyInfoInputs.cache
+C:\Users\abhil\source\repos\CFP26\CFP26\obj\Debug\netcoreapp3.1\CFP26.AssemblyInfo.cs
+C:\Users\abhil\source\repos\CFP26\CFP26\obj\Debug\netcoreapp3.1\CFP26.csproj.CoreCompileInputs.cache
+C:\Users\abhil\source\repos\CFP26\CFP26\obj\Debug\netcoreapp3.1\CFP26.dll
+C:\Users\abhil\source\repos\CFP26\CFP26\obj\Debug\netcoreapp3.1\CFP26.pdb
+C:\Users\abhil\source\repos\CFP26\CFP26\obj\Debug\netcoreapp3.1\CFP26.genruntimeconfig.cache

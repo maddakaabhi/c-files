@@ -1,0 +1,13 @@
+C:\Users\abhil\source\repos\Cfp13\Cfp13\bin\Debug\netcoreapp3.1\Cfp13.exe
+C:\Users\abhil\source\repos\Cfp13\Cfp13\bin\Debug\netcoreapp3.1\Cfp13.deps.json
+C:\Users\abhil\source\repos\Cfp13\Cfp13\bin\Debug\netcoreapp3.1\Cfp13.runtimeconfig.json
+C:\Users\abhil\source\repos\Cfp13\Cfp13\bin\Debug\netcoreapp3.1\Cfp13.runtimeconfig.dev.json
+C:\Users\abhil\source\repos\Cfp13\Cfp13\bin\Debug\netcoreapp3.1\Cfp13.dll
+C:\Users\abhil\source\repos\Cfp13\Cfp13\bin\Debug\netcoreapp3.1\Cfp13.pdb
+C:\Users\abhil\source\repos\Cfp13\Cfp13\obj\Debug\netcoreapp3.1\Cfp13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhil\source\repos\Cfp13\Cfp13\obj\Debug\netcoreapp3.1\Cfp13.AssemblyInfoInputs.cache
+C:\Users\abhil\source\repos\Cfp13\Cfp13\obj\Debug\netcoreapp3.1\Cfp13.AssemblyInfo.cs
+C:\Users\abhil\source\repos\Cfp13\Cfp13\obj\Debug\netcoreapp3.1\Cfp13.csproj.CoreCompileInputs.cache
+C:\Users\abhil\source\repos\Cfp13\Cfp13\obj\Debug\netcoreapp3.1\Cfp13.dll
+C:\Users\abhil\source\repos\Cfp13\Cfp13\obj\Debug\netcoreapp3.1\Cfp13.pdb
+C:\Users\abhil\source\repos\Cfp13\Cfp13\obj\Debug\netcoreapp3.1\Cfp13.genruntimeconfig.cache

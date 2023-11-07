@@ -1,0 +1,14 @@
+C:\Users\abhil\source\repos\datastructures\datastructures\bin\Debug\net6.0\datastructures.exe
+C:\Users\abhil\source\repos\datastructures\datastructures\bin\Debug\net6.0\datastructures.deps.json
+C:\Users\abhil\source\repos\datastructures\datastructures\bin\Debug\net6.0\datastructures.runtimeconfig.json
+C:\Users\abhil\source\repos\datastructures\datastructures\bin\Debug\net6.0\datastructures.dll
+C:\Users\abhil\source\repos\datastructures\datastructures\bin\Debug\net6.0\datastructures.pdb
+C:\Users\abhil\source\repos\datastructures\datastructures\obj\Debug\net6.0\datastructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhil\source\repos\datastructures\datastructures\obj\Debug\net6.0\datastructures.AssemblyInfoInputs.cache
+C:\Users\abhil\source\repos\datastructures\datastructures\obj\Debug\net6.0\datastructures.AssemblyInfo.cs
+C:\Users\abhil\source\repos\datastructures\datastructures\obj\Debug\net6.0\datastructures.csproj.CoreCompileInputs.cache
+C:\Users\abhil\source\repos\datastructures\datastructures\obj\Debug\net6.0\datastructures.dll
+C:\Users\abhil\source\repos\datastructures\datastructures\obj\Debug\net6.0\refint\datastructures.dll
+C:\Users\abhil\source\repos\datastructures\datastructures\obj\Debug\net6.0\datastructures.pdb
+C:\Users\abhil\source\repos\datastructures\datastructures\obj\Debug\net6.0\datastructures.genruntimeconfig.cache
+C:\Users\abhil\source\repos\datastructures\datastructures\obj\Debug\net6.0\ref\datastructures.dll

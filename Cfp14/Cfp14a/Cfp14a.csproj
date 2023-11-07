@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>Cfp14a.AcessMod5</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cfp14\Cfp14.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Cfp14">
+      <HintPath>..\Cfp14\obj\Debug\netcoreapp3.1\Cfp14.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

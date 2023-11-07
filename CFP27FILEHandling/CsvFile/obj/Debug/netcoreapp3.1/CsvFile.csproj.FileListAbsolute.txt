@@ -1,0 +1,16 @@
+C:\Users\abhil\source\repos\CFP27FILEHandling\CsvFile\bin\Debug\netcoreapp3.1\CsvFile.exe
+C:\Users\abhil\source\repos\CFP27FILEHandling\CsvFile\bin\Debug\netcoreapp3.1\CsvFile.deps.json
+C:\Users\abhil\source\repos\CFP27FILEHandling\CsvFile\bin\Debug\netcoreapp3.1\CsvFile.runtimeconfig.json
+C:\Users\abhil\source\repos\CFP27FILEHandling\CsvFile\bin\Debug\netcoreapp3.1\CsvFile.runtimeconfig.dev.json
+C:\Users\abhil\source\repos\CFP27FILEHandling\CsvFile\bin\Debug\netcoreapp3.1\CsvFile.dll
+C:\Users\abhil\source\repos\CFP27FILEHandling\CsvFile\bin\Debug\netcoreapp3.1\CsvFile.pdb
+C:\Users\abhil\source\repos\CFP27FILEHandling\CsvFile\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\abhil\source\repos\CFP27FILEHandling\CsvFile\obj\Debug\netcoreapp3.1\CsvFile.csproj.AssemblyReference.cache
+C:\Users\abhil\source\repos\CFP27FILEHandling\CsvFile\obj\Debug\netcoreapp3.1\CsvFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhil\source\repos\CFP27FILEHandling\CsvFile\obj\Debug\netcoreapp3.1\CsvFile.AssemblyInfoInputs.cache
+C:\Users\abhil\source\repos\CFP27FILEHandling\CsvFile\obj\Debug\netcoreapp3.1\CsvFile.AssemblyInfo.cs
+C:\Users\abhil\source\repos\CFP27FILEHandling\CsvFile\obj\Debug\netcoreapp3.1\CsvFile.csproj.CoreCompileInputs.cache
+C:\Users\abhil\source\repos\CFP27FILEHandling\CsvFile\obj\Debug\netcoreapp3.1\CsvFile.csproj.CopyComplete
+C:\Users\abhil\source\repos\CFP27FILEHandling\CsvFile\obj\Debug\netcoreapp3.1\CsvFile.dll
+C:\Users\abhil\source\repos\CFP27FILEHandling\CsvFile\obj\Debug\netcoreapp3.1\CsvFile.pdb
+C:\Users\abhil\source\repos\CFP27FILEHandling\CsvFile\obj\Debug\netcoreapp3.1\CsvFile.genruntimeconfig.cache

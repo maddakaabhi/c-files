@@ -1,0 +1,13 @@
+C:\Users\abhil\source\repos\CFP27FILEHandling\JsonFile\obj\Debug\netcoreapp3.1\JsonFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhil\source\repos\CFP27FILEHandling\JsonFile\obj\Debug\netcoreapp3.1\JsonFile.AssemblyInfoInputs.cache
+C:\Users\abhil\source\repos\CFP27FILEHandling\JsonFile\obj\Debug\netcoreapp3.1\JsonFile.AssemblyInfo.cs
+C:\Users\abhil\source\repos\CFP27FILEHandling\JsonFile\obj\Debug\netcoreapp3.1\JsonFile.csproj.CoreCompileInputs.cache
+C:\Users\abhil\source\repos\CFP27FILEHandling\JsonFile\bin\Debug\netcoreapp3.1\JsonFile.exe
+C:\Users\abhil\source\repos\CFP27FILEHandling\JsonFile\bin\Debug\netcoreapp3.1\JsonFile.deps.json
+C:\Users\abhil\source\repos\CFP27FILEHandling\JsonFile\bin\Debug\netcoreapp3.1\JsonFile.runtimeconfig.json
+C:\Users\abhil\source\repos\CFP27FILEHandling\JsonFile\bin\Debug\netcoreapp3.1\JsonFile.runtimeconfig.dev.json
+C:\Users\abhil\source\repos\CFP27FILEHandling\JsonFile\bin\Debug\netcoreapp3.1\JsonFile.dll
+C:\Users\abhil\source\repos\CFP27FILEHandling\JsonFile\bin\Debug\netcoreapp3.1\JsonFile.pdb
+C:\Users\abhil\source\repos\CFP27FILEHandling\JsonFile\obj\Debug\netcoreapp3.1\JsonFile.dll
+C:\Users\abhil\source\repos\CFP27FILEHandling\JsonFile\obj\Debug\netcoreapp3.1\JsonFile.pdb
+C:\Users\abhil\source\repos\CFP27FILEHandling\JsonFile\obj\Debug\netcoreapp3.1\JsonFile.genruntimeconfig.cache
